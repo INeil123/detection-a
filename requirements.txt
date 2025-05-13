@@ -1,0 +1,6 @@
+PyQt5>=5.15.0
+opencv-python>=4.7.0.72
+numpy>=1.23.5
+pyinstaller>=4.5.0
+kivy==2.1.0
+buildozer==1.5.0 
